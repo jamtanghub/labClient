@@ -1,5 +1,5 @@
 {
-  "name": "labclient",
+  "name": "labClient",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
